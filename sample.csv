@@ -1,0 +1,6 @@
+name,address,website,phone_number,reviews_count,reviews_average,place_type,opens_at
+Central Park Cafe,123 Main St New York NY,https://centralparkcafe.com,555-0192,150,4.65,Cafe,08:00 AM - 10:00 PM
+Metro Pizza,456 Broadway New York NY,https://metropizza.com,555-0143,320,4.20,Restaurant,11:00 AM - 11:00 PM
+Brooklyn Bookstore,789 Union St Brooklyn NY,https://brooklynbooks.com,555-0187,85,4.85,Book Store,09:00 AM - 08:00 PM
+Golden Gym,101 First Ave New York NY,,555-0111,210,3.90,Gym,05:00 AM - 12:00 AM
+Central Park Cafe,123 Main St New York NY,https://centralparkcafe.com,555-0192,155,4.70,Cafe,08:00 AM - 10:00 PM
